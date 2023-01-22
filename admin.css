@@ -1,0 +1,10 @@
+body
+{
+	text-align: center;
+	justify-content: center;
+	font-family: sans-serif;
+	background-image: url("image.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
